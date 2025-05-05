@@ -33,7 +33,7 @@ const RoutesComponent = () => {
         <ProfileProvider>
             <NetworkProvider>
                 <AuthProvider>
-                    <Router basename="/">
+                    <Router basename="/AstroscopeUser">
                         <ScrollToTop />
                         <Routes>
                             <Route path="/login" element={<NotProtectedRoute><Login title="Login" /></NotProtectedRoute>} />
