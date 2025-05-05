@@ -1,0 +1,12 @@
+{
+    "firebaseConfig": {
+        "apiKey": "AIzaSyAt6v6ckiEUsyXSAUsWU79zcURJzxBs_1g",
+        "authDomain": "astrology-e84c0.firebaseapp.com",
+        "projectId": "astrology-e84c0",
+        "storageBucket": "astrology-e84c0.firebasestorage.app",
+        "messagingSenderId": "208357954562",
+        "appId": "1:208357954562:web:b1c2f514d079cb3428c31b",
+        "measurementId": "G-NQDJR7FBT7"
+    },
+    "vapidKey": "BCMGZ8mh6gELGTmUdr34kjWNnTgapFKRDu0vVyYAAoPrxMCZeaibZKqnH8rIpufz8Jsotq77wURB9nWXhGF_bQU"
+}
