@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AstroscopeUser/static/css/main.ab3bdad4.css",
-    "main.js": "/AstroscopeUser/static/js/main.ff79f61e.js",
+    "main.js": "/AstroscopeUser/static/js/main.bc97d075.js",
     "static/js/453.0f585e32.chunk.js": "/AstroscopeUser/static/js/453.0f585e32.chunk.js",
     "index.html": "/AstroscopeUser/index.html",
     "main.ab3bdad4.css.map": "/AstroscopeUser/static/css/main.ab3bdad4.css.map",
-    "main.ff79f61e.js.map": "/AstroscopeUser/static/js/main.ff79f61e.js.map",
+    "main.bc97d075.js.map": "/AstroscopeUser/static/js/main.bc97d075.js.map",
     "453.0f585e32.chunk.js.map": "/AstroscopeUser/static/js/453.0f585e32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab3bdad4.css",
-    "static/js/main.ff79f61e.js"
+    "static/js/main.bc97d075.js"
   ]
 }
